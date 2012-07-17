@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="calibre_id">
+  <metadata xmlns:opf="http://www.idpf.org/2007/opf" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:calibre="http://calibre.kovidgoyal.net/2009/metadata">
+    <dc:title>171542 Lawyer text.indd</dc:title>
+    <dc:creator opf:file-as="Unknown" opf:role="aut">Unknown</dc:creator>
+    <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.8.30) [http://calibre-ebook.com]</dc:contributor>
+    <dc:identifier id="calibre_id" opf:scheme="calibre">ee9451cd-5986-4442-8c3f-0370d1021698</dc:identifier>
+    <dc:language>en</dc:language>
+  </metadata>
+  <manifest>
+    <item href="index.html" id="id1" media-type="text/html"/>
+  </manifest>
+  <spine>
+    <itemref idref="id1"/>
+  </spine>
+  <guide/>
+</package>

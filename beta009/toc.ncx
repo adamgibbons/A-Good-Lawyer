@@ -1,0 +1,111 @@
+<?xml version="1.0"?>
+<!DOCTYPE ncx PUBLIC "-//NISO//DTD ncx 2005-1//EN" "http://www.daisy.org/z3986/2005/ncx-2005-1.dtd">
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1">
+   <head>
+      <!--The following four metadata items are required for all
+            NCX documents, including those conforming to the relaxed
+            constraints of OPS 2.0-->
+      <meta content="0965680401" name="dtb:uid"/>
+      <meta content="1" name="dtb:depth"/>
+      <meta content="0" name="dtb:totalPageCount"/>
+      <meta content="0" name="dtb:maxPageNumber"/>
+   </head>
+   <docTitle>
+      <text>A Good Lawyer</text>
+   </docTitle>
+   <docAuthor>
+      <text>Stephen W. Comiskey</text>
+   </docAuthor>
+   <navMap>
+      <navPoint id="navpoint-1" playOrder="1">
+         <navLabel>
+            <text>Title Page</text>
+         </navLabel>
+         <content src="OEBPS/text/titlepage.html"/>
+      </navPoint>
+      <navPoint id="navpoint-2" playOrder="2">
+         <navLabel>
+            <text>Copyright/Publisher's Notes</text>
+         </navLabel>
+         <content src="OEBPS/text/copyright.html"/>
+      </navPoint>
+      <navPoint id="navpoint-3" playOrder="3">
+         <navLabel>
+            <text>Dedication</text>
+         </navLabel>
+         <content src="OEBPS/text/dedication.html"/>
+      </navPoint>
+      <navPoint id="navpoint-4" playOrder="4">
+         <navLabel>
+            <text>Foreword</text>
+         </navLabel>
+         <content src="OEBPS/text/foreword.html"/>
+      </navPoint>
+      <navPoint id="navpoint-5" playOrder="5">
+         <navLabel>
+            <text>Introduction</text>
+         </navLabel>
+         <content src="OEBPS/text/introduction.html"/>
+      </navPoint>
+      <navPoint id="navpoint-6" playOrder="6">
+         <navLabel>
+            <text>I. The Players</text>
+         </navLabel>
+         <content src="OEBPS/text/players.html"/>
+      </navPoint>
+      <navPoint id="navpoint-7" playOrder="7">
+         <navLabel>
+            <text>II. The Tools</text>
+         </navLabel>
+         <content src="OEBPS/text/tools.html"/>
+      </navPoint>
+      <navPoint id="navpoint-8" playOrder="8">
+         <navLabel>
+            <text>III. The Venues</text>
+         </navLabel>
+         <content src="OEBPS/text/venues.html"/>
+      </navPoint>
+      <navPoint id="navpoint-9" playOrder="9">
+         <navLabel>
+            <text>IV. The Rules</text>
+         </navLabel>
+         <content src="OEBPS/text/rules.html"/>
+      </navPoint>
+      <navPoint id="navpoint-10" playOrder="10">
+         <navLabel>
+            <text>V. Forever and Ever</text>
+         </navLabel>
+         <content src="OEBPS/text/forever.html"/>
+      </navPoint>
+      <navPoint id="navpoint-11" playOrder="11">
+         <navLabel>
+            <text>Postscript</text>
+         </navLabel>
+         <content src="OEBPS/text/postscript.html"/>
+      </navPoint>
+      <navPoint id="navpoint-12" playOrder="12">
+         <navLabel>
+            <text>Appendix A: Constitution of the United States of America</text>
+         </navLabel>
+         <content src="OEBPS/text/constitution.html"/>
+      </navPoint>
+      <navPoint id="navpoint-13" playOrder="13">
+         <navLabel>
+            <text>Appendix B: Amendments to the Constitution</text>
+         </navLabel>
+         <content src="OEBPS/text/amendments.html"/>
+      </navPoint>
+      <navPoint id="navpoint-14" playOrder="14">
+         <navLabel>
+            <text>Appendix C: Index to the Constitution</text>
+         </navLabel>
+         <content src="OEBPS/text/index-to-constitution.html"/>
+      </navPoint>
+      <navPoint id="navpoint-15" playOrder="15">
+         <navLabel>
+            <text>Notes</text>
+         </navLabel>
+         <content src="OEBPS/text/footnotes.html"/>
+      </navPoint>      
+   </navMap>
+</ncx>
