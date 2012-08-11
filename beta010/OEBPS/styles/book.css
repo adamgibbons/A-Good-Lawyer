@@ -91,3 +91,7 @@ span.section {
 	text-decoration:underline;
 	margin-left:15px;
 }
+
+.large-cap{
+	font-size:125%;
+}

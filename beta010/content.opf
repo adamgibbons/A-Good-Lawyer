@@ -1,19 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<package xmlns="http://www.idpf.org/2007/opf" 
-        unique-identifier="BookId" 
+<package xmlns="http://www.idpf.org/2007/opf"
+        unique-identifier="BookId"
         version="3.0"
-        xml:lang="en"        
+        xml:lang="en"
         >
 
     <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
         <dc:title>A Good Lawyer</dc:title>
         <dc:language>en</dc:language>
         <dc:identifier id="BookId" opf:scheme="ISBN">0965680401</dc:identifier>
-
         <dc:creator opf:file-as="Comiskey, Stephen W." opf:role="aut">Stephen W. Comiskey</dc:creator>
         <dc:publisher>Biped Design (www.biped-design.com)</dc:publisher>
-        
     </metadata>
 
     <manifest>
@@ -33,6 +31,7 @@
         <item href="OEBPS/text/amendments.html" id="amendments" media-type="application/xhtml+xml" />
         <item href="OEBPS/text/index-to-constitution.html" id="index-to-constitution" media-type="application/xhtml+xml" />
         <item href="OEBPS/text/footnotes.html" id="footnotes" media-type="application/xhtml+xml" />
+        <item href="OEBPS/text/notes.html" id="notes" media-type="application/xhtml+xml" />
         <item href="OEBPS/styles/book.css" id="book-css" media-type="text/css" />
         <item href="toc.ncx" id="ncx" media-type="application/x-dtbncx+xml" />
     </manifest>
@@ -53,5 +52,6 @@
         <itemref idref="amendments" linear="yes" />
         <itemref idref="index-to-constitution" linear="yes" />
         <itemref idref="footnotes" linear="yes" />
+        <itemref idref="notes" linear="yes" />
     </spine>
 </package>
