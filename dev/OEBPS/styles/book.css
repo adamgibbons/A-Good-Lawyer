@@ -87,8 +87,8 @@ span.section {
 	padding-left:6em;
 }
 
-.tab-1{
-	text-decoration:underline;
+.acronym{
+	display:block;
 	margin-left:15px;
 }
 
