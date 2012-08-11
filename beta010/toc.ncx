@@ -103,9 +103,15 @@
       </navPoint>
       <navPoint id="navpoint-15" playOrder="15">
          <navLabel>
-            <text>Notes</text>
+            <text>Footnotes</text>
          </navLabel>
          <content src="OEBPS/text/footnotes.html"/>
-      </navPoint>      
+      </navPoint>
+      <navPoint id="navpoint-16" playOrder="16">
+         <navLabel>
+            <text>Notes</text>
+         </navLabel>
+         <content src="OEBPS/text/notes.html"/>
+      </navPoint>
    </navMap>
 </ncx>
