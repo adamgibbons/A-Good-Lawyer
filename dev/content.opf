@@ -6,8 +6,8 @@
         <dc:title>A Good Lawyer</dc:title>
         <dc:identifier id="bookid">9780988593893</dc:identifier>
         <dc:language>en</dc:language>
-        <meta property="dcterms:modified">2013-05-04</meta>
-        <dc:creator opf:file-as="Comiskey, Stephen W." opf:role="aut">Stephen W. Comiskey</dc:creator>
+        <meta property="dcterms:modified">2013-05-03</meta>
+        <dc:creator>Stephen W. Comiskey</dc:creator>
         <dc:publisher>Biped Design (www.biped-design.com)</dc:publisher>
     </metadata>
 
